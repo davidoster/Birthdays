@@ -1,0 +1,6 @@
+C:\Users\George.pasparakis\source\repos\Variables\Birthdays\obj\Debug\Birthdays.csprojAssemblyReference.cache
+C:\Users\George.pasparakis\source\repos\Variables\Birthdays\bin\Debug\Birthdays.exe.config
+C:\Users\George.pasparakis\source\repos\Variables\Birthdays\bin\Debug\Birthdays.exe
+C:\Users\George.pasparakis\source\repos\Variables\Birthdays\bin\Debug\Birthdays.pdb
+C:\Users\George.pasparakis\source\repos\Variables\Birthdays\obj\Debug\Birthdays.exe
+C:\Users\George.pasparakis\source\repos\Variables\Birthdays\obj\Debug\Birthdays.pdb
